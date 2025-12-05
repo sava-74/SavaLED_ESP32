@@ -1,0 +1,32 @@
+SavaLED_ESP32		KEYWORD1
+begin				KEYWORD2
+show				KEYWORD2
+canShow				KEYWORD2
+setBrightness		KEYWORD2
+getNumLeds			KEYWORD2
+setPixel			KEYWORD2
+setPixelColor		KEYWORD2
+clear				KEYWORD2
+fill				KEYWORD2
+fillColor			KEYWORD2
+Color				KEYWORD2
+setPixelHSV			KEYWORD2
+fillHSV				KEYWORD2
+setGammaCorrection	KEYWORD2
+rainbowCycle		KEYWORD2
+breathingRainbow	KEYWORD2
+runCometsEffect		KEYWORD2
+
+# Цветовые константы
+RED					LITERAL1
+ORANGE				LITERAL1
+YELLOW				LITERAL1
+GREEN				LITERAL1
+CYAN				LITERAL1
+BLUE				LITERAL1
+VIOLET				LITERAL1
+MAGENTA				LITERAL1
+WHITE				LITERAL1
+BLACK				LITERAL1
+GOLD				LITERAL1
+PINK				LITERAL1
