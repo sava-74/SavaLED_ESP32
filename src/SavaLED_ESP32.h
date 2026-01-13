@@ -67,9 +67,9 @@ public:
     ~SavaLED_ESP32();
 
     // --- Основные функции ---
-    bool begin(uint16_t numLeds, int pin);
-    void show();
-    bool canShow() const;
+    bool begin(uint16_t numLeds, int pin);    // Инициализация
+    void show();                              // Отправка данных на ленту
+    bool canShow() const;                       // Проверка готовности к следующему кадру    
     void setBrightness(uint8_t brightness);
     uint16_t getNumLeds() const;
     
